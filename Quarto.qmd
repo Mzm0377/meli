@@ -1,0 +1,29 @@
+---
+title: "MM_DisEco_Fall2024"
+author: "Melikasadat Mollabashi"
+format: html
+editor: visual
+---
+
+Find area of a circle with radius 5 cm.
+
+Formula: ¶ \* r\^2
+
+where r is the radius.
+
+```{r}
+# Function to calculate the area of a circle
+area_of_circle <- function(radius) {
+  area <- pi * radius^2
+  return(area)
+}
+radius <- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![As a future scientist, I know I'll face many challenges;thus, I decided to take this class to broaden my horizon and be able to manage those challenges in future.](images/clipboard-1555617983.png) First, describe what you consider to be one of the most ground-breaking or "disruptive" papers in your field. Next, describe the most ground-breaking or disruptive paper in your field in the past 5-10 years. Do you believe the disruptive or paradigm-shifting nature of the work in your field has declined in recent years? Why or why not?
+
+In my point of view “Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid” by James Watson and Francis Crick, published in Nature in 1953 is one the most disruptive papers in biomedical science. The discovery of DNA's double helix structure, which drastically altered our knowledge of genetics, inheritance, and the molecular processes underpinning life itself, made this work groundbreaking. This discovery made modern molecular biology and biotechnology possible, opening the door to innovations in genetic engineering, DNA sequencing, and customized medicine. it had a significant impact on science and is frequently cited as one of the most significant scientific discoveries of the 20th century. The publication “A Programmable Dual-RNA-Guided DNA Endonuclease in Adaptive Bacterial Immunity” by Emmanuelle Charpentier and Jennifer Doudna is one of the most groundbreaking papers in biomedical science in the past 5-10 years. In this paper, they introduced the CRISPR-Cas9 system for the first time which is an amazing tool for genome editing. CRISPR-Cas9 is an easy and cheap method to target special genes. In addition, it has been used across different fields. For instance, in disease research, it can model genetic disorders in animals and humans; also, in agriculture, they use it to produce more resilient crops. Furthermore, it accelerates research projects, so, the experiments that took a long time to be done can be done in a few months instead.
+
+I believe that the disruptive or paradigm-shifting nature of the work in biomedical science has declined in recent years due to the following reasons: 1- Nowadays, fields like genomic and synthetic biology are growing more complex, so, paradigm-shifting discoveries need interdisciplinary cooperation and cutting-edge tools. These tools are distributed among research labs widely. 2- Much of what has been discovered recently is based on fundamental discoveries made in previous decades, like the structure of DNA and the creation of CRISPR. Gradual improvements in current technologies frequently lead to dramatic advances as science becomes more complicated. For instance, whereas CRISPR had a significant early impact, more recent developments—like base editing and prime editing—are building upon and improving upon that ground-breaking discovery. 3- Basic science used to have a lot of breakthroughs (e.g., Watson and Crick's DNA structure). More paradigm-shifting work is now being done in applied science and translational medicine, where studies are directly influencing clinical therapies like COVID-19 vaccines, cancer immunotherapy, and big data and AI-driven customized medicine. Although the real-world impact of these innovations is enormous, they may not feel as profoundly disruptive as the discovery of DNA's structure. 4- The pursuit and use of disruptive research are also influenced by social and ethical considerations. Certain technologies, such as CRISPR, are being used more slowly in some areas because they have raised significant ethical questions. This may slow down how quickly and obviously disruptive the insights emerge, without reducing their groundbreaking status.
