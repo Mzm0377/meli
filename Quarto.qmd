@@ -61,3 +61,29 @@ When I receive comments that differ from that of another reviewer, I approach th
 As one of Dr. Andrews' collaborators, I would approach the situation thoughtfully. While Dr. Andrews developed the original idea and secured funding, authorship should ideally reflect contributions to the research process, such as design, implementation, analysis, and writing. Dr. Andrews’ expectation to be included as an author on every paper associated with the grant is not entirely unreasonable given her pivotal role in the proposal's inception. However, authorship guidelines (e.g., from journals or professional societies) generally emphasize remarkable contributions to the research and writing process. If Dr. Andrews did not contribute actively during the project's implementation, her request may not align with these guidelines.
 
 I would arrange a meeting with Dr. Andrews to discuss authorship expectations openly. Then, I’d start by acknowledging her foundational role in the project, highlighting the importance of her idea in securing funding and shaping the research direction. In addition, I would bring up general authorship guidelines, emphasizing that contributions should reflect involvement in various phases of the project. I might suggest a compromise, such as including her as a co-author on key papers that directly relate to her original hypothesis or where she has provided meaningful input, while being clear that authorship on every paper would require more direct involvement. I’d recommend we establish clear authorship criteria at the beginning of each paper's preparation to ensure everyone has aligned expectations moving forward. By handling the conversation with respect and clarity, I hope to reach a fair understanding that acknowledges Dr. Andrews' contributions while adhering to scholarly standards.
+
+\*\*week 7: Should we be required to make our data public?
+
+Pre-printing manuscripts on servers like bioRxiv and medRxiv has become increasingly popular in the scientific community. In the following, I will explain about some pros and cons:
+
+Pros:
+
+1- Pre-prints often generate early feedback from peers, in this way, the quality of the final manuscript will be improved.
+
+2- By posting a pre-print, you can claim precedence for your work before it's peer-reviewed or published. It is significant for competitive fields.
+
+3- Pre-prints can be cited by others, helping to the recognition of your work even before formal publication.
+
+4- Sharing your work before journal publication allows the research community to access it more quickly, helping to accelerate scientific discovery.
+
+Cons:
+
+1- Sharing results openly before formal publication can expose the researchers’ work to the risk of being copied by others.
+
+2- Pre-prints aren't peer-reviewed, as a result; they may contain errors or incomplete analyses. So, readers must exercise caution in interpreting them.
+
+3- Some researchers may worry that sharing unreviewed work could harm their credibility, especially if important revisions are needed after peer review.
+
+4- In my major (biomedical science) pre-prints may be misunderstood or misrepresented in the media, particularly if they contain preliminary findings.
+
+I think the decision to pre-print depends on the nature of the research and the field. If rapid dissemination is critical and I feel confident in the robustness of my work, pre-printing could be an excellent strategy.
