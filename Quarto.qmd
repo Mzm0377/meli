@@ -97,3 +97,90 @@ An "ethical journal" can be defined as a publication that adheres to a set of pr
 "That’s actually a really common question! Indeed, statistics can sometimes be used or misinterpreted to support different ideas, but in research, we have strict standards to prevent that. When I did my analysis, I wasn’t just looking for a ‘significant’ P-value or some magic number that means my work was done. The real value of my analysis comes from careful planning, using the right methods for my data, and making sure my conclusions are solid and meaningful. Statistical significance (like a P-value) just gives a hint about whether the effect I observed is likely not due to chance, but there’s a whole lot of deeper work behind it that ensures I’m not just making numbers look good.
 
 It’s kind of like a chef who uses a thermometer to know when food is cooked; the thermometer gives one piece of information, but you still need to combine it with good ingredients, technique, and experience to make a great dish. So, yes, statistics are one tool, but they’re only one piece of the work I’ve done."
+
+\*\*Week 10:
+
+Project title: "Crowdsourced Health Data for Disease Monitoring and Biomarker Discovery" 
+
+Project overview: By gathering health data from a wide range of people, this citizen science project seeks to expedite scientific research. To find biomarkers for chronic diseases including diabetes, cardiovascular disease, and neurological disorders, the data would be used to determine trends in disease progression, environmental factors, and genetic predispositions. Over time, participants will monitor their health measures, providing important information to enhance comprehension of the etiology of diseases and the variety of therapy responses. 
+
+Project Objectives: 
+
+1-**Identify Early Biomarkers:** Collect longitudinal health data to identify potential early biomarkers for diseases such as diabetes, Alzheimer's, and heart disease. 
+
+2-**Understand Disease Progression:** Study how diseases develop over time in different populations, identifying potential environmental or lifestyle triggers. 
+
+3-**Improve Treatment Personalization:** Help uncover genetic, lifestyle, and environmental factors that influence how individuals respond to treatments. 
+
+4-**Enhance Public Health Models:** Use aggregated data to refine predictive models of disease and improve public health strategies. 
+
+**Data Participants Would Collect** 
+
+-   **Health Metrics:** Participants would self-monitor various health parameters such as blood pressure, blood glucose levels, heart rate, weight, sleep patterns, and physical activity. These metrics could be collected using wearables like fitness trackers, smartwatches, or other health apps. 
+
+```{=html}
+<!-- -->
+```
+-   **Genetic Information:** Participants may be asked to submit genetic samples through at-home DNA collection kits (e.g., saliva samples), which would provide insights into genetic predispositions for certain diseases. 
+
+```{=html}
+<!-- -->
+```
+-   **Diet and Lifestyle Data:** Participants would log daily dietary intake, physical activity, and environmental exposures (e.g., air quality, UV exposure) via a smartphone app. 
+
+```{=html}
+<!-- -->
+```
+-   **Symptom Tracking:** Participants could report symptoms (e.g., fatigue, pain, cognitive changes) via a digital platform, providing valuable insights into disease progression. 
+
+```{=html}
+<!-- -->
+```
+-   **Survey Responses:** Participants could fill out questionnaires on medical history, family health history, and lifestyle choices (e.g., smoking, alcohol consumption). 
+
+**Advancements in Biomedical Research** 
+
+-   **Data Diversity:** By leveraging the power of large-scale data from a broad and diverse pool of participants, the project can uncover trends and correlations that would be difficult to detect in a clinical trial setting. 
+
+```{=html}
+<!-- -->
+```
+-   **Longitudinal Analysis:** Continuous data collection over time will allow researchers to study disease progression and treatment responses in real-world, dynamic environments. 
+
+**Advantages of Citizen Science Approach** 
+
+-   **Large-Scale Data Collection:** Citizen science enables the collection of data from thousands or even millions of participants, providing a far larger dataset than would be feasible through traditional research funding. 
+
+```{=html}
+<!-- -->
+```
+-   **Real-World Data:** Data collected in real-world settings can reflect daily health behavior and environmental conditions, which may not be captured in clinical studies or controlled environments. 
+
+**Potential Pitfalls and Challenges** 
+
+1.  **Data Quality and Accuracy:** 
+
+-   **Issue:** Citizen science data can suffer from inconsistencies, errors, or biases, especially when participants are self-reporting or using consumer-grade devices with varying accuracy. 
+
+```{=html}
+<!-- -->
+```
+-   **Mitigation:** Rigorous data validation protocols, such as cross-referencing with clinical records or periodic accuracy checks, can be implemented to enhance data quality. 
+
+2.  **Participant Engagement:** 
+
+-   **Issue:** Maintaining long-term engagement from participants can be difficult, especially if they lose interest or do not see immediate benefits from the project. 
+
+```{=html}
+<!-- -->
+```
+-   **Mitigation:** Regular communication, personalized feedback, and tangible rewards (e.g., health insights, progress tracking) can help sustain participant involvement. 
+
+3.  **Logistical Challenges:** 
+
+-   **Issue:** Coordinating a large-scale project, ensuring data privacy, and dealing with the logistics of data collection (e.g., shipping genetic kits, handling sensitive health data) could be complex. 
+
+```{=html}
+<!-- -->
+```
+-   **Mitigation:** A robust infrastructure for secure data collection and storage, along with clear instructions for participants, would be essential. Partnering with healthcare institutions for reliable data handling would also help mitigate these issues
