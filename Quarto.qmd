@@ -116,71 +116,35 @@ Project Objectives: 
 
 **Data Participants Would Collect** 
 
--   **Health Metrics:** Participants would self-monitor various health parameters such as blood pressure, blood glucose levels, heart rate, weight, sleep patterns, and physical activity. These metrics could be collected using wearables like fitness trackers, smartwatches, or other health apps. 
-
-```{=html}
-<!-- -->
-```
--   **Genetic Information:** Participants may be asked to submit genetic samples through at-home DNA collection kits (e.g., saliva samples), which would provide insights into genetic predispositions for certain diseases. 
-
-```{=html}
-<!-- -->
-```
--   **Diet and Lifestyle Data:** Participants would log daily dietary intake, physical activity, and environmental exposures (e.g., air quality, UV exposure) via a smartphone app. 
-
-```{=html}
-<!-- -->
-```
--   **Symptom Tracking:** Participants could report symptoms (e.g., fatigue, pain, cognitive changes) via a digital platform, providing valuable insights into disease progression. 
-
-```{=html}
-<!-- -->
-```
+-   **Health Metrics:** Participants would self-monitor various health parameters such as blood pressure, blood glucose levels, heart rate, weight, sleep patterns, and physical activity. These metrics could be collected using wearables like fitness trackers, smartwatches, or other health apps.
+-   **Genetic Information:** Participants may be asked to submit genetic samples through at-home DNA collection kits (e.g., saliva samples), which would provide insights into genetic predispositions for certain diseases.
+-   **Diet and Lifestyle Data:** Participants would log daily dietary intake, physical activity, and environmental exposures (e.g., air quality, UV exposure) via a smartphone app.
+-   **Symptom Tracking:** Participants could report symptoms (e.g., fatigue, pain, cognitive changes) via a digital platform, providing valuable insights into disease progression.
 -   **Survey Responses:** Participants could fill out questionnaires on medical history, family health history, and lifestyle choices (e.g., smoking, alcohol consumption). 
 
 **Advancements in Biomedical Research** 
 
 -   **Data Diversity:** By leveraging the power of large-scale data from a broad and diverse pool of participants, the project can uncover trends and correlations that would be difficult to detect in a clinical trial setting. 
-
-```{=html}
-<!-- -->
-```
 -   **Longitudinal Analysis:** Continuous data collection over time will allow researchers to study disease progression and treatment responses in real-world, dynamic environments. 
 
 **Advantages of Citizen Science Approach** 
 
--   **Large-Scale Data Collection:** Citizen science enables the collection of data from thousands or even millions of participants, providing a far larger dataset than would be feasible through traditional research funding. 
-
-```{=html}
-<!-- -->
-```
+-   **Large-Scale Data Collection:** Citizen science enables the collection of data from thousands or even millions of participants, providing a far larger dataset than would be feasible through traditional research funding.
 -   **Real-World Data:** Data collected in real-world settings can reflect daily health behavior and environmental conditions, which may not be captured in clinical studies or controlled environments. 
 
 **Potential Pitfalls and Challenges** 
 
 1.  **Data Quality and Accuracy:** 
 
--   **Issue:** Citizen science data can suffer from inconsistencies, errors, or biases, especially when participants are self-reporting or using consumer-grade devices with varying accuracy. 
-
-```{=html}
-<!-- -->
-```
+-   **Issue:** Citizen science data can suffer from inconsistencies, errors, or biases, especially when participants are self-reporting or using consumer-grade devices with varying accuracy.
 -   **Mitigation:** Rigorous data validation protocols, such as cross-referencing with clinical records or periodic accuracy checks, can be implemented to enhance data quality. 
 
 2.  **Participant Engagement:** 
 
--   **Issue:** Maintaining long-term engagement from participants can be difficult, especially if they lose interest or do not see immediate benefits from the project. 
-
-```{=html}
-<!-- -->
-```
+-   **Issue:** Maintaining long-term engagement from participants can be difficult, especially if they lose interest or do not see immediate benefits from the project.
 -   **Mitigation:** Regular communication, personalized feedback, and tangible rewards (e.g., health insights, progress tracking) can help sustain participant involvement. 
 
 3.  **Logistical Challenges:** 
 
--   **Issue:** Coordinating a large-scale project, ensuring data privacy, and dealing with the logistics of data collection (e.g., shipping genetic kits, handling sensitive health data) could be complex. 
-
-```{=html}
-<!-- -->
-```
+-   **Issue:** Coordinating a large-scale project, ensuring data privacy, and dealing with the logistics of data collection (e.g., shipping genetic kits, handling sensitive health data) could be complex.
 -   **Mitigation:** A robust infrastructure for secure data collection and storage, along with clear instructions for participants, would be essential. Partnering with healthcare institutions for reliable data handling would also help mitigate these issues
