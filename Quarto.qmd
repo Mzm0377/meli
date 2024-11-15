@@ -148,3 +148,17 @@ Project Objectives: 
 
 -   **Issue:** Coordinating a large-scale project, ensuring data privacy, and dealing with the logistics of data collection (e.g., shipping genetic kits, handling sensitive health data) could be complex.
 -   **Mitigation:** A robust infrastructure for secure data collection and storage, along with clear instructions for participants, would be essential. Partnering with healthcare institutions for reliable data handling would also help mitigate these issues
+
+\*\*Week 11: If you were an advisor, what steps would you take to support, improve and maintain the mental health of your graduate students?
+
+As an advisor, I believe it is significant to create an environment in which students feel supported. In the following, I will explain briefly about that:
+
+a)Encouraging for having a work-life balance: I would encourage the students to take breaks, vacations, and weekends off to prevent burnout. In addition, I would give them more freedom for working hours because I believe productivity for different students might be different.
+
+b)Provide an open communication atmosphere: I would create an open-door policy and ensure students feel comfortable discussing their challenges, both academic and personal. In addition, I would set regular one-on-one meetings to monitor their progress and discuss potential personal problems.
+
+c)Establish rational expectations: I would collaborate on achievable goals and try to decrease ambiguity. Moreover, I would celebrate their effort and hard work even if the results are not good.
+
+d)Create a collaborative atmosphere: I would encourage the students for collaboration and avoid isolation.
+
+e)Distinguishing early signs of struggle: I will pay attention to even small changes in their mood and behavior and try to address concerns with discretion.
