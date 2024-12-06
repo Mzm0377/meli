@@ -188,3 +188,17 @@ Building trust in the scientists:
 2- I would explain about the increase of credibility by demonstrating that the scientific community acknowledges and resolves ethical transgressions, such as the contentious germline editing incident in China.
 
 3- I would Share stories of CRISPR's positive impact, such as curing inherited blindness in clinical trials, to demonstrate its potential as a force for good.
+
+\*\*Week 13:
+
+The inclusion of ChatGPT as a listed co-author on a manuscript would indeed influence my initial perception of the work and its authors, as well as how I approach the review process due to the following reasons:
+
+1- The authors' comprehension of authorship requirements is immediately called into doubt when an AI tool is listed as a co-author. Co-authorship has historically been associated with responsibility, intellectual contributions, and the capacity to accept accountability for the manuscript's substance. ChatGPT and other AI tools lack the agency and accountability required to perform these functions.
+
+2- I would like to know how and how much of the manuscript was generated using ChatGPT. Was it for data analysis, drafting, or brainstorming? If not mentioned directly, it presents issues with repeatability and openness, two things that are crucial to scientific study.
+
+3- The authors should carefully check any content produced by ChatGPT. The credibility of the publication is damaged if AI-generated results are offered as unconfirmed conclusions or interpretations. To make sure assertions are supported by proven techniques, I would examine them even more closely.
+
+4- I would evaluate whether the paper demonstrates the human writers' critical thinking and competence because relying too much on AI technologies may cause them to overlook domain-specific knowledge or subtle reasoning.
+
+Eventually, I believe that Even though ChatGPT and other AI technologies can help with scientific writing, their contribution should be noted in the methods or acknowledgments section rather than as co-authors. My opinion of the manuscript and the authors may suffer if ChatGPT is listed as a co-author since it may be interpreted as not knowing its place in the scientific method.
